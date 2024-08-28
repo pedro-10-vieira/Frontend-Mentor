@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -36,11 +34,11 @@ I learned an efficient and clean way of creating a simple HTML/CSS project invol
 
 ### Continued development
 
-In future projects, I'll continue focusing in putting into practice my theoretical knowledge of HTML/CSS and JavaScript (from the moment it also becomes a requirement), improving my pace and accuracy when I'm coding. 
+In future projects, I'll continue focusing in putting into practice my theoretical knowledge of HTML/CSS and JavaScript (from the moment it also becomes a requirement), improving my pace and accuracy when I'm coding
 
 ### Useful resources
 
-The project was super simple, so, no major resourses used.
+The project was super simple, so, no major resourses used
 
 ## Author
 
