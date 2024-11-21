@@ -42,5 +42,5 @@ The project was super simple, so, no major resourses used
 
 ## Author
 
-- Website - [Pedro Vieira]
+- Website - [Blog Preview Card](https://pedro-10-vieira.github.io/Frontend-Mentor/blog-preview-card-main/)
 - Frontend Mentor - [@pedro-10-vieira](https://www.frontendmentor.io/profile/pedro-10-vieira)
