@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/pedro-10-vieira/Frontend-Mentor/tree/master/blog-preview-card-main)
+- Live Site URL: [Website](https://pedro-10-vieira.github.io/Frontend-Mentor/blog-preview-card-main/)
 
 ## My process
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Pedro Vieira]
 - Frontend Mentor - [@pedro-10-vieira](https://www.frontendmentor.io/profile/pedro-10-vieira)
+- LinkedIn - [Pedro Vieira](https://www.linkedin.com/in/pedro-vieira-26637732b/)
